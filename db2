@@ -64,6 +64,11 @@
       "pwd": "MyApp-2023-12-31-m7gxy4oa",
       "subscription": "2023-11-01",
       "hwid": "holla key"
+    },
+    {
+      "pwd": "MyApp-2023-12-31-9djzp0h0",
+      "subscription": "2023-11-01",
+      "hwid": "hellawd"
     }
   ]
 }
