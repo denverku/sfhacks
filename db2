@@ -69,6 +69,11 @@
       "pwd": "MyApp-2023-12-31-9djzp0h0",
       "subscription": "2023-11-01",
       "hwid": "hellawd"
+    },
+    {
+      "pwd": "MyApp-2023-12-31-n1g375nm",
+      "subscription": "2023-10-25T14:15:48.101Z",
+      "hwid": "test"
     }
   ]
 }
