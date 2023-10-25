@@ -12,7 +12,7 @@
     },
     {
       "pwd": "sidor",
-      "paid":true,
+      "paid": true,
       "subscription": "2023-11-02T14:33:38.874Z",
       "hwid": "16ABA83C0F20EA7471ADC0A9029BAF09"
     },
@@ -111,6 +111,12 @@
       "pwd": "3554-8653-1270-7896",
       "subscription": "2023-10-28T09:08:06.921Z",
       "hwid": "EFF19EB24DA689B622671E1CA590B500"
+    },
+    {
+      "pwd": "5346-8861-0063-6921",
+      "paid": false,
+      "subscription": "2023-10-28T14:52:37.514Z",
+      "hwid": "220C92F84324DEE30EFC5DA552D62954"
     }
   ]
 }
