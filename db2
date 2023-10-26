@@ -123,6 +123,12 @@
       "paid": false,
       "subscription": "2023-10-29T10:25:28.160Z",
       "hwid": "9D7EE6F3C6A78295BC2968832B2F307C"
+    },
+    {
+      "pwd": "sidor",
+      "paid": false,
+      "subscription": "2023-10-27T11:19:02.177Z",
+      "hwid": "16ABA83C0F20EA7471ADC0A9029BAF09"
     }
   ]
 }
