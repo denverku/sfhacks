@@ -60,8 +60,9 @@
     },
     {
       "pwd": "0882-5780-7677-1853",
-      "subscription": "2023-10-26T09:42:58.813Z",
-      "hwid": "F4C321EEB66BAA63B52685DAFE810C27"
+      "subscription": "2023-10-27T14:20:23.244Z",
+      "hwid": "F4C321EEB66BAA63B52685DAFE810C27",
+      "paid": false
     },
     {
       "pwd": "5928-7697-4403-1004",
