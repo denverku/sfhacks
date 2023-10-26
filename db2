@@ -23,8 +23,9 @@
     },
     {
       "pwd": "0940-4449-5666-5063",
-      "subscription": "2023-10-25T16:03:04.551Z",
-      "hwid": "2DA02ABA2E2DEE97C28AC4E1B47841CC"
+      "subscription": "2023-10-27T13:06:12.739Z",
+      "hwid": "2DA02ABA2E2DEE97C28AC4E1B47841CC",
+      "paid": false
     },
     {
       "pwd": "3570-6579-3678-9696",
