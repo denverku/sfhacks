@@ -253,6 +253,12 @@
       "paid": false,
       "subscription": "2023-10-31T02:44:30.805Z",
       "hwid": "F000BEF41A4ED3FC05EA3C5A5B7F475D"
+    },
+    {
+      "pwd": "8807-9025-4300-0569",
+      "paid": false,
+      "subscription": "2023-10-31T13:43:50.363Z",
+      "hwid": "1D51FA2D5275947DA46A71510394724F"
     }
   ]
 }
