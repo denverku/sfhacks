@@ -262,8 +262,8 @@
     },
     {
       "pwd": "3468-4016-5997-4320",
-      "paid": true,
-      "subscription": "2023-11-10T00:02:00.255Z",
+      "paid": false,
+      "subscription": null,
       "hwid": "C9006F86DAB405EBA9A0E616BB90CF58"
     },
     {
