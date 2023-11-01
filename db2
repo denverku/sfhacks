@@ -345,10 +345,10 @@
       "hwid": "BB5B5B1B204D628BB24786FBD522F8YT"
     },
     {
-      "pwd": "8882-8215-9820-1757",
+      "pwd": "0327-4149-0688-5061",
       "paid": false,
-      "subscription": "2023-11-02T02:38:22.495Z",
-      "hwid": "BB5B5B1B204D628BB24786FBD522FRTG"
+      "subscription": "2023-11-02T02:38:44.117Z",
+      "hwid": "BB5B5B1B204D628BB24786FBD522"
     }
   ]
 }
