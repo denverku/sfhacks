@@ -13,7 +13,7 @@
     {
       "pwd": "sidor",
       "paid": false,
-      "subscription": "Fri Nov 03 2023 00:32:11 GMT+0800 (Singapore Standard Time)",
+      "subscription": null,
       "hwid": "16ABA83C0F20EA7471ADC0A9029BAF09"
     },
     {
