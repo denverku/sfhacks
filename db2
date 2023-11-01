@@ -257,13 +257,13 @@
     {
       "pwd": "8807-9025-4300-0569",
       "paid": true,
-      "subscription": "2023-11-09T15:23:54.210Z",
+      "subscription": "2023-11-10T15:23:54.210Z",
       "hwid": "1D51FA2D5275947DA46A71510394724F"
     },
     {
       "pwd": "3468-4016-5997-4320",
-      "paid": false,
-      "subscription": null,
+      "paid": true,
+      "subscription": "2023-11-10T15:23:54.210Z",
       "hwid": "C9006F86DAB405EBA9A0E616BB90CF58"
     },
     {
