@@ -385,6 +385,12 @@
       "paid": false,
       "subscription": "2023-11-02T07:26:57.500Z",
       "hwid": "BCEDA3422902505E2CBA41217AEF1185"
+    },
+    {
+      "pwd": "0249-4326-9831-5608",
+      "paid": false,
+      "subscription": "2023-11-02T09:49:44.447Z",
+      "hwid": "6DBBC08958FA782161E095821CF14671"
     }
   ]
 }
