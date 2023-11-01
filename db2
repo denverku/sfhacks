@@ -13,7 +13,7 @@
     {
       "pwd": "sidor",
       "paid": false,
-      "subscription": "2023-11-02T16:44:30.288Z",
+      "subscription": "2023-11-01T16:44:30.288Z",
       "hwid": "16ABA83C0F20EA7471ADC0A9029BAF09"
     },
     {
