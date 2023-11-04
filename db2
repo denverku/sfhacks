@@ -83,8 +83,9 @@
     },
     {
       "pwd": "2362-1564-2396-8872",
-      "subscription": "2023-10-27T06:29:13.360Z",
-      "hwid": "A5DF5BF74B65BF2C3554F5C8DF0265A2"
+      "subscription": null,
+      "hwid": "A5DF5BF74B65BF2C3554F5C8DF0265A2",
+      "paid": false
     },
     {
       "pwd": "6533-5419-6941-4372",
