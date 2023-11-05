@@ -576,7 +576,7 @@
     },
     {
       "pwd": "0258-9233-8688-2893",
-      "paid": false,
+      "paid": true,
       "subscription": "2023-12-07T16:57:23.809Z",
       "hwid": "AF6A43B282495439B251D944F94A1CC6"
     }
