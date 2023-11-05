@@ -408,7 +408,7 @@
     },
     {
       "pwd": "9234-7742-3855-1771",
-      "paid": false,
+      "paid": true,
       "subscription": "2023-11-06T11:14:22.213Z",
       "hwid": "DFA308DEA5D9ABE533C8DD588824E819"
     },
