@@ -589,7 +589,7 @@
     {
       "pwd": "5407-7598-2840-7768",
       "paid": false,
-      "subscription": null,
+      "subscription": "2023-11-07T11:37:46.358Z",
       "hwid": "547F40484EFAF492D4C737F3C9929AC0"
     }
   ]
