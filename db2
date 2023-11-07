@@ -90,12 +90,6 @@
       "paid": false
     },
     {
-      "pwd": "4790-9740-3828-2243",
-      "paid": true,
-      "subscription": "2023-10-27T07:41:43.429Z",
-      "hwid": "9B99227B8B64D57058F1A1EB729BDC90"
-    },
-    {
       "pwd": "7973-2856-1788-0307",
       "subscription": "2023-11-09T11:39:07.135Z",
       "hwid": "1D43C398FA0BF01943FCB2449843D891",
@@ -246,18 +240,6 @@
       "hwid": "F000BEF41A4ED3FC05EA3C5A5B7F475D"
     },
     {
-      "pwd": "8807-9025-4300-0569",
-      "paid": true,
-      "subscription": "2023-11-10T15:23:54.210Z",
-      "hwid": "547F40484EFAF492D4C737F3C9929AC0"
-    },
-    {
-      "pwd": "3468-4016-5997-4320",
-      "paid": true,
-      "subscription": "2023-11-10T15:23:54.210Z",
-      "hwid": "C9006F86DAB405EBA9A0E616BB90CF58"
-    },
-    {
       "pwd": "2984-2552-7431-4731",
       "paid": false,
       "subscription": "2023-11-05T10:19:46.322Z",
@@ -395,12 +377,7 @@
       "subscription": "2023-11-02T10:30:41.774Z",
       "hwid": "55E18A32E75BA7ECD59DCD9F0CFFC1C7"
     },
-    {
-      "pwd": "9234-7742-3855-1771",
-      "paid": true,
-      "subscription": "2023-11-06T11:14:22.213Z",
-      "hwid": "DFA308DEA5D9ABE533C8DD588824E819"
-    },
+    
     {
       "pwd": "4001-8899-4361-2762",
       "paid": false,
