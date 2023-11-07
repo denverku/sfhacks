@@ -1,10 +1,16 @@
 {
- "Users":[
- {
+  "Users": [
+    {
       "pwd": "sidor",
       "paid": true,
       "subscription": "2023-11-07T10:37:35.184Z",
       "hwid": "2B6E981A1B966CEACB51AF9EDEF1107F"
+    },
+    {
+      "pwd": "1251-3711-2380-2986",
+      "paid": false,
+      "subscription": "2023-11-08T14:58:12.652Z",
+      "hwid": ""
     }
- ]
+  ]
 }
