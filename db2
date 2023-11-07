@@ -90,12 +90,6 @@
       "paid": false
     },
     {
-      "pwd": "7973-2856-1788-0307",
-      "subscription": "2023-11-09T11:39:07.135Z",
-      "hwid": "1D43C398FA0BF01943FCB2449843D891",
-      "paid": true
-    },
-    {
       "pwd": "5346-8861-0063-6921",
       "paid": false,
       "subscription": "2023-10-28T14:52:37.514Z",
