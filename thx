@@ -248,6 +248,13 @@
       "ban": false,
       "subscription": "2023-11-10T13:48:11.972Z",
       "hwid": ""
+    },
+    {
+      "pwd": "6380-7175-7989-8260",
+      "paid": 0,
+      "ban": false,
+      "subscription": "2023-11-10T13:58:37.523Z",
+      "hwid": ""
     }
   ]
 }
