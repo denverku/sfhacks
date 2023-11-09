@@ -269,6 +269,13 @@
       "ban": false,
       "subscription": "2023-11-10T14:00:17.139Z",
       "hwid": ""
+    },
+    {
+      "pwd": "0029-9672-9165-8096",
+      "paid": 0,
+      "ban": false,
+      "subscription": "2023-11-10T14:00:17.139Z",
+      "hwid": ""
     }
   ]
 }
