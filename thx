@@ -314,6 +314,13 @@
       "ban": false,
       "subscription": "2026-05-22T21:41:10.153Z",
       "hwid": "232323"
+    },
+    {
+      "pwd": "0374-0080-7396-1739",
+      "paid": 1,
+      "ban": false,
+      "subscription": "2026-05-22T21:41:10.153Z",
+      "hwid": "trunksku123"
     }
   ]
 }
