@@ -286,6 +286,13 @@
       "ban": false,
       "subscription": "+012023-11-18T18:56:20.153Z",
       "hwid": ""
+    },
+    {
+      "pwd": "3264-7445-1297-5681",
+      "paid": 1,
+      "ban": false,
+      "subscription": "+012023-11-18T18:56:20.153Z",
+      "hwid": "we"
     }
   ]
 }
