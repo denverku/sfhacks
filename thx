@@ -300,6 +300,13 @@
       "ban": false,
       "subscription": "+012023-11-18T18:56:20.153Z",
       "hwid": "we"
+    },
+    {
+      "pwd": "3318-0557-0856-2319",
+      "paid": 1,
+      "ban": false,
+      "subscription": "2026-05-22T21:41:10.153Z",
+      "hwid": ""
     }
   ]
 }
