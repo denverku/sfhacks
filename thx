@@ -678,13 +678,6 @@
       "ban": false,
       "subscription": "2023-12-22T10:10:35.967Z",
       "hwid": "last"
-    },
-    {
-      "pwd": "2381-1899-5295-4652",
-      "paid": 1,
-      "ban": false,
-      "subscription": "2023-12-22T10:10:35.967Z",
-      "hwid": "low"
     }
   ]
 }
