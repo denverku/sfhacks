@@ -230,6 +230,13 @@
       "ban": false,
       "subscription": "2023-11-30T12:31:59.454Z",
       "hwid": "hwid"
+    },
+    {
+      "pwd": "0737-0259-8875-3653",
+      "paid": 0,
+      "ban": false,
+      "subscription": "2023-11-30T12:32:02.505Z",
+      "hwid": "hwid"
     }
   ]
 }
