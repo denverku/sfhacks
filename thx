@@ -244,6 +244,13 @@
       "ban": false,
       "subscription": "2023-11-30T12:32:10.518Z",
       "hwid": "hwid"
+    },
+    {
+      "pwd": "0859-4743-0515-2376",
+      "paid": 0,
+      "ban": false,
+      "subscription": "2023-11-30T12:32:15.775Z",
+      "hwid": "hwid"
     }
   ]
 }
