@@ -720,6 +720,13 @@
       "ban": false,
       "subscription": "2023-12-02T17:29:51.062Z",
       "hwid": "jayson"
+    },
+    {
+      "pwd": "3653-4942-8514-7748",
+      "paid": 0,
+      "ban": false,
+      "subscription": "2023-12-02T17:32:44.349Z",
+      "hwid": "jayson"
     }
   ]
 }
